@@ -1,7 +1,3 @@
- pastemyst
-a simple website for sharing code. version 1.7.2 (changelog)
-
-home  github  api  donate 
 """ Made by Dhruman Gupta """
  
 import os.path
