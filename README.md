@@ -1,5 +1,9 @@
 # WizemenZoomLinks
 [FINISHED]
-Just put in your password and email in the variables. Run the script and there will be meetings.txt in your downloads
 
 This will get all your zoom meetings, so you dont have to login every time
+
+Install the zip file from github. Unpack it.
+Fill in your wizemen credentials in /driver/credentials.txt
+
+You simply have to run bot.exe (located in your unpacked folder). A console should pop up, READ IT for current status.
