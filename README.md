@@ -1,4 +1,11 @@
 # WizemenZoomLinks
+
+(BROKEN RIGHT NOW) (sad, they added learning objectives)
+I have the fix, but dont have time to implement it :/
+Building it takes a long time, so thats also a reason
+27-02-2021
+
+// Old
 **[FINISHED]**
 
 This will get all your zoom meetings from wizemen (psn, aravalli, gurgaon) so you dont have to login every time
