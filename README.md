@@ -1,20 +1,16 @@
-# WizemenZoomLinks
+# Wizemen Zoom Links, A simple script to get all your zoom meetings AT ONCE!
 
-(BROKEN RIGHT NOW) (sad, they added learning objectives)
-I have the fix, but dont have time to implement it :/
-Building it takes a long time, so thats also a reason
-27-02-2021
+How to  use:
+Install selenium webdriver using: pip install selenium==3.141.0
 
-// Old
-**[FINISHED]**
+Run zoominks.py, it will show the commands
+Go through the setup once, it will save your details in credentials.txt
 
-This will get all your zoom meetings from wizemen (psn, aravalli, gurgaon) so you dont have to login every time
+# What to do if it does not work
+This most likely happens because of an outdated webdriver. In the same directory as the python script, there is a folder called "drivers".
+Go to https://chromedriver.chromium.org/, and download version that your broswer is currently on (can check on chrome://version/).
 
-Install the zip file from github. Unpack it.
-Fill in your wizemen credentials in /driver/credentials.txt
+Now everything should work. If it does not, please create an issue on github.
+You can always fix it yourself, and if you want make a pull request here!
 
-You simply have to run bot.exe (located in your unpacked folder). A console should pop up, READ IT for current status.
-
-**[TIP]**
-
-You can bookmark the file, because it will always be in the same location. You can access the meetings instantly from your browser
+Thanks for trying out my shitty project.
